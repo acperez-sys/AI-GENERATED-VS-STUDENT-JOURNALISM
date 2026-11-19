@@ -16,6 +16,9 @@ The original student-authored articles and their AI-generated counterparts are n
 The textual materials may be made available upon reasonable request to the corresponding researcher. Requests should explain the intended use of the materials, the specific files required, and how privacy and confidentiality will be protected. Access is not automatic and remains subject to review and any necessary authorization from the student publication’s editorial board.
 
 Requests may be directed to:
+
 Adrian Clark D. Perez
+
 Corresponding Researcher
+
 Email: acperez@psu.edu.ph
